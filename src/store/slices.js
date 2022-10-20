@@ -1,0 +1,1 @@
+export { newsSlice } from './news/newsSlice'

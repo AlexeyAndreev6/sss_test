@@ -2,6 +2,7 @@
   "name": "sss_test",
   "version": "0.1.0",
   "private": true,
+  "homepage": " https://alexeyandreev6.github.io/sss_test/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.6",
     "@testing-library/jest-dom": "^5.16.5",
